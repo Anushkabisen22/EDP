@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/sam_pc/EDP_F/Face-Recognition-Based-Attendance-System-main/attendance_taker.py", line 1, in <module>
+    import dlib
+ModuleNotFoundError: No module named 'dlib'
+Traceback (most recent call last):
+  File "/home/sam_pc/EDP_F/Adafruit_CircuitPython_Fingerprint/examples/fingerprint_for_proff.py", line 7, in <module>
+    import adafruit_fingerprint
+ModuleNotFoundError: No module named 'adafruit_fingerprint'
