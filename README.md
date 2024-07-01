@@ -21,7 +21,7 @@
 
 **The handy device for taking the attendance**:  
 
-![Device](logo/entry.png)
+![Device](logo/device.png)
 
 **Demonstration of the working model:**:  
 
