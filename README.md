@@ -21,7 +21,7 @@
 
 **The handy device for taking the attendance**:  
 
-
+![Device](logo/entry.png)
 
 **Demonstration of the working model:**:  
 
@@ -30,12 +30,16 @@
 **Dashboard to track attendance:**:  
 We can longin as student and view our current attendance in the all the courses.
 
+![Device](logo/entry.png)
 
+![Device](logo/login.png)
+
+![Device](logo/student.png)
 
 **Dashboard to analyse atteendance**:  
 Faculty can login to see the attendance status of individual student in the course.
 
-
+![Device](logo/faculty.png)
 
 
 ## Technologies Used
